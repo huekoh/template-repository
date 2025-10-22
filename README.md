@@ -5,7 +5,7 @@ A pre-configured webpack starter template for quick project setup. Includes webp
 ## Quick Start
 ```bash
 # Clone this template
-git clone https://github.com/yourusername/template-repository.git my-new-project
+git clone git@github.com:huekoh/template-repository.git my-new-project
 cd my-new-project
 
 # Install dependencies
